@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiewen-wen.pages.dev/sitemap.xml
